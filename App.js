@@ -37,6 +37,7 @@ backdropClickHandler = () => {
         {backdrop}
         <main style={{ marginTop: "64px" }}>
           <p>This is text</p>
+          <p>This is text</p>
         </main>
       </div>
     );
